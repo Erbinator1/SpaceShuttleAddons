@@ -19,5 +19,5 @@ File structure:
 
     
 # Issues
-For SPDS parts, the moving part **NEEDS** to be the root. Otherwise, the payload delivery system will not move.  
+For SPDS parts, the moving part **NEEDS** to be the root. Build the shuttle around the SPDS part. Otherwise, the payload delivery system will not move. (AS OF 8/13/22) 
 If you have any issues, let me know in the issues tab.
